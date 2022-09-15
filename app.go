@@ -3,7 +3,6 @@ package main
 import (
     "io";
     "net/http";
-    "unit.nginx.org/go";
 )
 
 func main() {
